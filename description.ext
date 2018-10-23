@@ -1,18 +1,6 @@
-
-
-
 #include "grad_logisticMenu\include\description.hpp"   
-
-
 
 class CfgFunctions
 {
     #include "grad_logisticMenu\include\CfgFunctions.hpp"
 };
-
-
-
-
-
-
-
